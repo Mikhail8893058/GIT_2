@@ -10,3 +10,7 @@ def ymnogen(a, b):
     return a * b
 print(ymnogen(2,1))
 
+def delen(a, b):
+    return a / b
+print(delen(2,1))
+
